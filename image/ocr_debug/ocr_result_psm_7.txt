@@ -1,0 +1,3 @@
+config: --oem 3 --psm 7
+
+Hi
